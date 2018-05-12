@@ -1,0 +1,27 @@
+_repo: Le-duel-au-balai--13-Extrait-du-quotitien--La-Patrie---ditions-du-27-et-28-f-vrier-1879._23830
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilhelm, Ch.
+    gutenberg_agent_id: '26063'
+    url: http://www.gutenberg.org/2009/agents/26063
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2007-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23830'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+title: "Le duel au balai\r\nExtrait du quotitien \"La Patrie\", éditions du 27 et\
+  \ 28 février 1879."
+url: http://www.gutenberg.org/ebooks/23830
